@@ -1,0 +1,170 @@
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: #2196F3;
+}
+
+a:focus {
+    color: #2196F3;
+}
+
+.logo-text {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 26px;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: 0.03em;
+}
+
+.logo-color {
+    color: #2196F3;
+}
+
+.logo-header {
+    color: #000000;    
+}
+
+.font {
+    font-family: 'Roboto', sans-serif;
+    color: #757575;
+}
+
+.header {
+    font-weight: 500;
+    font-size: 14px;
+    font-style: normal;
+    line-height: 1.1;
+    letter-spacing: 0.02em;
+}
+
+.link-nav {
+    color: #212121;
+}
+
+.link-address {
+    color: #757575;
+}
+
+.title {
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 1.4;
+    text-align: center;
+    color: #ffffff;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+}
+
+.button {
+    cursor: pointer;
+    border: none;
+    color: #212121;
+    background: #F5F4FA;
+    border-radius: 4px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.9;
+}
+
+.button:hover {
+    background: #2196F3;
+    color: #ffffff;
+}
+
+.button:focus {
+    background: #2196F3;
+    color: #ffffff;
+}
+
+.title-dignity {
+    font-size: 14px;
+    line-height: 1.1;
+    color: #212121;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+
+.text-dignity {
+    font-size: 14px;
+    line-height: 1.7;
+    letter-spacing: 0.03em;
+}
+
+.title-2 {
+    font-size: 36px;
+    line-height: 1.2;
+    color: #212121;
+    text-align: center;
+    letter-spacing: 0.03em;
+}
+
+.name {
+    line-height: 1.2;
+    color: #212121;
+    font-weight: 500;
+    letter-spacing: 0.03em;
+}
+
+.job-title {
+    line-height: 1.2;
+    letter-spacing: 0.03em;
+}
+
+.logo-footer {
+    color: #ffffff;
+}
+
+.footer {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.7;
+    color: #ffffff;
+    font-style: normal;
+    letter-spacing: 0.03em;
+}
+
+.footer-link {
+    color: rgba(255, 255, 255, 0.6);
+    letter-spacing: 0.03em;
+}
+
+.button-portfolio {
+    cursor: pointer;
+    color: #212121;
+    border: none;
+    background: #F5F4FA;
+    border-radius: 4px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.6;
+    letter-spacing: 0.03em;
+}
+
+.button-portfolio:hover {
+    background: #2196F3;
+    color: #ffffff;
+}
+
+.button-portfolio:focus {
+    background: #2196F3;
+    color: #ffffff;
+}
+
+.working {
+    font-size: 18px;
+    line-height: 2;
+    color: #212121;
+    letter-spacing: 0.06em;
+}
+
+.type-work {
+    font-size: 16px;
+    line-height: 1.9;
+    letter-spacing: 00.03em;
+    color: #757575;
+}
